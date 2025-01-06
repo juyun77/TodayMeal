@@ -91,7 +91,7 @@ Notion과 slack을 통해 팀원과 소통하였으며, Git flow를 통해 main 
 ### 1. 리포지토리 클론
 
 ```
-git clone https://github.com/kim-chulsoon/TodayMeal.git
+git clon https://github.com/juyun77/TodayMeal.git
 cd TodayMeal
 ```
 

@@ -132,7 +132,11 @@ nodemon app
 
 ### 5. 브라우저에서 확인
 
-http://localhost:8080
+http://13.125.200.133:8080/
+
+test용
+ID : test1234
+PW : Test1234!
 
 
 

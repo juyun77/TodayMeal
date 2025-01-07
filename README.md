@@ -134,10 +134,7 @@ nodemon app
 
 https://reves.kr/
 
-test용
-ID : test1234
-PW : Test1234!
-
+![image](https://github.com/user-attachments/assets/9a9a24c2-f5d6-4ce0-afee-22801c6fbcaf)
 
 
 ## Contact
